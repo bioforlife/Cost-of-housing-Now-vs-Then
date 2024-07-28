@@ -19,3 +19,6 @@ Is it posssible to break into the housing market, while renting in 2022 in 6 yea
 ### Recommendations
 - Increase wages with inflation.
 - More affordable houses to rent and buy (Need to investigate why housing prices have increased dramatically in London).
+
+### Dashboard
+[Tableau Dashboard](https://public.tableau.com/views/Wouldyouneedtotimetraveltobuyahouse/Aretheglorydaysforhousehuntingbehindus?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link) 
